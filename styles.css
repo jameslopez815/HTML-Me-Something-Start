@@ -1,1 +1,55 @@
-/* Write your CSS here! */
+#background {
+  background-image: url(./images/Background.jpg);
+}
+
+#mainHeading {
+  text-align: center;
+  color: red;
+  font-size: 60px;
+}
+
+#quote {
+  font-size: x-large;
+  text-align: center;
+}
+
+#testP.funParagraph {
+  color: green;
+  text-align: left;
+  font-size: 19px;
+  }
+
+.container {
+  margin: 100px auto;
+  width: 75%;
+  padding-bottom: 2px;
+  }
+
+.float-img-left {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  border: solid black 1px;
+  padding: 2px;
+  }
+
+.float-img-right {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  border: solid black 1px;
+  padding: 2px;
+  }
+
+.text-h2 { 
+  font-size: 35px;
+  text-decoration: underline;
+  }
+
+.text-para {
+  font-size: 19px;
+  }
+
+.video {
+  text-align: center;
+}
